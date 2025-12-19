@@ -1,0 +1,44 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "title": "Apple Watch Smartwatch",
+      "description": "Modern smartwatch with numerous features: health monitoring, notifications, fitness tracking and much more. Perfect companion for an active lifestyle.",
+      "price": 1299.99,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+      "title": "Sony WH-1000XM5 Wireless Headphones",
+      "description": "Premium headphones with active noise cancellation, excellent sound quality and long battery life. Perfect for travel and daily use.",
+      "price": 399.99,
+      "createdAt": "2025-01-02T00:00:00.000Z"
+    },
+    {
+      "id": "87f5",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQH2BZHOkfN_aQ/feedshare-shrink_800/B4DZsyKqypG0Ag-/0/1766073218674?e=1767830400&v=beta&t=1SBQRCUNL__L8EeRnfI_fWpzvZqxcOVD1kGLsaRLyt4",
+      "title": "1",
+      "description": "1",
+      "price": 1,
+      "createdAt": "2025-12-19T08:53:10.697Z"
+    },
+    {
+      "id": "954f",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQH2BZHOkfN_aQ/feedshare-shrink_800/B4DZsyKqypG0Ag-/0/1766073218674?e=1767830400&v=beta&t=1SBQRCUNL__L8EeRnfI_fWpzvZqxcOVD1kGLsaRLyt4",
+      "title": "1",
+      "description": "1",
+      "price": 1,
+      "createdAt": "2025-12-19T09:12:28.270Z"
+    },
+    {
+      "id": "fa98",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQH2BZHOkfN_aQ/feedshare-shrink_800/B4DZsyKqypG0Ag-/0/1766073218674?e=1767830400&v=beta&t=1SBQRCUNL__L8EeRnfI_fWpzvZqxcOVD1kGLsaRLyt4",
+      "title": "1",
+      "description": "1",
+      "price": 11,
+      "createdAt": "2025-12-19T09:12:41.797Z"
+    }
+  ]
+}
